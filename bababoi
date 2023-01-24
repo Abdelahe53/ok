@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>WA choflik fjiha okhra</title>
+  </head>
+
+  <body>
+    <details>
+      <div style="border: 5px solid rgb(216, 181, 27); height: 23px">
+        <summary>Title list</summary>
+      </div>
+
+      <ul>
+        <li>
+          <h4 id="heading-1">About me</h4>
+          <p>Click <a href="#heading-1">here</a></p>
+        </li>
+        <h4 id="heading-2">Social meadia</h4>
+        <p>Click <a href="#heading-2">here</a></p>
+        <li>
+          <h4 id="heading-3">Watch</h4>
+          <p>Click <a href="#heading-3">here</a></p>
+        </li>
+        <h4 id="heading-4">Contact</h4>
+        <p>Click <a href="#heading-4">here</a></p>
+        <li>
+          <h4 id="heading-5">Music</h4>
+          <p>Click <a href="#heading-5">here</a></p>
+        </li>
+      </ul>
+    </details>
+
+    <h2>About me</h2>
+    <h3>GondalF &copy;</h3>
+    <img src="images/me.jpg" width="200" height="200" />
+    <br />
+    <a href="images/me.jpg" download>Download image</a>
+    <p>
+      A person who is starting to learn coding is embarking on a journey to
+      understand the language and logic behind computer programming. They will
+      learn how to write code in a specific programming language, such as Python
+      or JavaScript, and use it to create programs and applications that can run
+      on computers. As they progress, they will learn how to think like a
+      programmer and develop problem-solving skills that will help them create
+      more complex and efficient programs. Additionally, they will also learn
+      how to collaborate and communicate with other developers and use tools
+      such as version control and debugging to ensure the quality of their work.
+    </p>
+
+    <h3>Social media</h3>
+    <a
+      href="https://www.facebook.com/profile.php?id=100068287493349"
+      target="_blank"
+      >Facebook</a
+    >
+    <br />
+    <a href="https://www.instagram.com/gondalf_1/" target="_blank">Instagram</a>
+    <h3>Watch</h3>
+    <a href="https://www.twitch.tv/gondalf53" target="_blank">TwitchTV</a>
+    <br />
+    <a href="https://www.tiktok.com/@gondalf53" target="_blank">TikTok</a>
+
+    <h3>Contact</h3>
+    <a href="mailto:abdelahe53@gmail.com">Mail</a>
+
+    <h3>Music</h3>
+    <a href="https://soundcloud.com/gondalf-638113919">SoundCloud</a>
+  </body>
+</html>
